@@ -1,0 +1,252 @@
+@-moz-document url-prefix("https://www.google.com/search") {
+.RNNXgb {
+    border-radius: 7px !important;
+}
+/*Mica*/
+    body {
+        padding-top: 100px;
+        background-image: url(https://github.com/tobyisawesome/google-fluent-skin/raw/main/GoogleLightMica.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+.rsGxI.Ww4FFb, .Ww4FFb {
+    background-color: transparent;
+    border-radius: 0px;
+    border-width: 0px;
+    box-shadow: 0px;
+}
+.rl_item_base {
+    background-color: transparent;
+}
+.QDmqye {
+    background: transparent;
+}
+.sG4Xue {
+    background: transparent;
+}
+.X6JNf:not(.NKrsie) {
+    background: linear-gradient(to right, transparent 0, transparent 100px), linear-gradient(to left, transparent 0, transparent 100px), linear-gradient(var(--mc2) 0, transparent 80px);
+}
+.sfbg {
+    background: transparent;
+}
+.dodTBe {
+    display: none;
+}
+.e9EfHf {
+    padding-top: 0px;
+}
+.s8GCU {
+display: none;
+}
+.jZWadf {
+    background: transparent;
+}
+.Lj9fsd {
+    background: transparent;
+}
+.dG2XIf {
+background: transparent;
+}
+/* Segoe UI Variable*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, button, cite, code, del, dfn, em, img, input, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    font-family: Segoe UI Variable Text !important;
+    text-transform: initial !important;
+}
+body {
+    font-size: 14px !important;
+    font-family: Segoe UI Variable Text !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    line-height: 20px !important;
+}
+h1  {
+font-size: 28px !important;
+font-family: Segoe UI Variable Display !important;
+font-style: normal !important;
+font-weight: 600 !important;
+line-height: 36px !important;
+}
+h2  {
+font-size: 20px !important;
+font-family: Segoe UI Variable Display !important;
+font-style: normal !important;
+font-weight: 600 !important;
+line-height: 28px !important;
+}
+h3  {
+font-size: 14px !important;
+font-family: Segoe UI Variable Text !important;
+font-style: normal !important;
+font-weight: 600 !important;
+line-height: 20px !important;
+}
+h4  {
+font-size: 14px !important;
+font-family: Segoe UI Variable Text !important;
+font-style: normal !important;
+font-weight: 400 !important;
+line-height: 20px !important;
+}
+p   {
+font-size: 12px !important;
+font-family: Segoe UI Variable Small !important;
+font-style: normal !important;
+font-weight: 400 !important;
+line-height: 16px !important;
+}
+em {
+    font-weight: 600 !important;
+}
+/*Modernized results*/
+.aajZCb {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: transparent;
+    border-radius: 0 0 24px 24px;
+    box-shadow: none;
+    border: 0;
+    padding-bottom: 4px;
+}
+.erkvQe {
+    padding-bottom: 16px;
+    flex: auto;
+    overflow-x: hidden;
+}
+.erkvQe {
+    border-radius: 7px !important;
+}
+.erkvQe {
+    background-color: rgba(252, 252, 252, 0.85) !important;
+    backdrop-filter: blur(30px) !important;
+    border: none;
+    box-shadow: 0 8px 16px 0px rgba(0, 0, 0, 0.14), 0px 0px 0px 1px rgba(0, 0, 0, 0.0578) !important;
+        animation-name: fadeIn;
+    animation-duration: 83ms;
+    animation-timing-function: cubic-bezier(0,0,0,1);
+}
+.h3L8Ub .rLrQHf {
+    border-radius: 7px !important;
+        background-color: rgba(252, 252, 252, 0.85) !important;
+    backdrop-filter: blur(30px) !important;
+    border: none;
+    box-shadow: 0 8px 16px 0px rgba(0, 0, 0, 0.14), 0px 0px 0px 1px rgba(0, 0, 0, 0.0578) !important;
+        animation-name: fadeIn;
+    animation-duration: 83ms;
+    animation-timing-function: cubic-bezier(0,0,0,1);
+}
+.aajZCb {
+    overflow: visible;
+}
+.h3L8Ub .rLrQHf {
+    margin-left: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+.RNNXgb {
+background: rgba(255, 255, 255, 0.7);
+box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.06) !important;
+}
+.RNNXgb:focus-within {
+background: rgba(255, 255, 255, 0.7) !important;
+transition: 0.2s;
+transition-timing-function: ease-out;
+}
+.RNNXgb:hover {
+    background: rgba(249, 249, 249, 0.5);
+    box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.06) !important;
+    transition: 0.2s;
+}
+.sbct {
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+    margin-left: 4px !important;
+    margin-right: 4px !important;
+    margin-bottom: 2px !important;
+    border-radius: 4px !important;
+    transition: 0.083s;
+}
+.sbct:hover {
+background-color: rgba(0, 0, 0, 0.0373);
+}
+.sbct:active {
+    background: rgba(0, 0, 0, 0.02);
+    transition: 0.083s;
+}
+.erkvQe {
+    margin: 0;
+    padding-top: 4px;
+    padding-bottom: 2px;
+}
+.xtSCL {
+    border-top: 1px solid transparent;
+    margin: 0 14px;
+    padding-bottom: 4px;
+}
+g-menu {
+    background-color: rgba(252, 252, 252, 0.85) !important;
+    backdrop-filter: blur(30px) !important;
+        animation-name: fadeIn !important;
+    animation-duration: 83ms !important;
+    animation-timing-function: cubic-bezier(0,0,0,1) !important;
+    box-shadow: 0 8px 16px 0px rgba(0, 0, 0, 0.14), 0px 0px 0px 1px rgba(0, 0, 0, 0.0578) !important;
+        border-radius: 7px !important;
+        padding: 0.5px 0 !important;
+}
+g-menu-item {
+    padding: 0 0 0 10px !important;
+        border-radius: 4px !important;
+    margin: 4px !important;
+    background: transparent !important;
+}
+g-menu-item:hover {
+background: rgba(0, 0, 0, 0.0373) !important;
+}
+.pkWBse {
+    box-shadow: none;
+}
+/* root*/
+:root {
+    --uv-styles-color-surface: rgba(255, 255, 255, 1); /* Assuming surface color should be a solid white */
+    --uv-styles-color-footer: rgba(249, 249, 249, 0.5); /* Closest match for a light footer background */
+    --uv-styles-color-outline: rgba(0, 0, 0, 0.05779999867081642); /* Outline color in light theme */
+    --uv-styles-color-icon-on-secondary: rgba(0, 0, 0, 0.4458000063896179); /* Control strong default for icon on secondary */
+    --uv-styles-color-scrim: rgba(0, 0, 0, 0.30000001192092896); /* Assuming scrim is a transparent black overlay */
+    --uv-styles-color-on-scrim: rgba(255, 255, 255, 1); /* Text on scrim */
+    --uv-styles-color-icon-on-scrim: rgba(255, 255, 255, 1); /* Icon on scrim */
+    --uv-styles-color-primary: rgba(0, 95, 184, 1); /* Accent default for primary color */
+    --uv-styles-color-on-primary: rgba(255, 255, 255, 1); /* Text on accent primary */
+    --uv-styles-color-secondary: rgba(249, 249, 249, 0.5); /* Control secondary for secondary color */
+    --uv-styles-color-on-secondary: rgba(0, 0, 0, 0.4458000063896179); /* Control strong default for text on secondary */
+    --uv-styles-color-on-tertiary: rgba(0, 0, 0, 0.4458000063896179); /* Closest match for text on tertiary */
+    --uv-styles-color-icon-on-tertiary: rgba(0, 0, 0, 0.4458000063896179); /* Closest match for icon on tertiary */
+    --uv-styles-color-tertiary: rgba(249, 249, 249, 1); /* Closest match for tertiary background */
+    --uv-styles-color-text-primary: rgba(0, 0, 0, 0.8956000208854675); /* Text primary in light theme */
+    --uv-styles-color-text-emphasis: rgba(0, 0, 0, 0.8956000208854675); /* Text primary for emphasis */
+    --uv-styles-color-icon-emphasis: rgba(0, 0, 0, 0.8956000208854675); /* Icon emphasis */
+    --uv-styles-color-text-de-emphasis: rgba(0, 0, 0, 0.6062999963760376); /* Text secondary for de-emphasis */
+    --uv-styles-color-text-default: rgba(0, 0, 0, 0.8956000208854675); /* Text primary for default text */
+    --uv-styles-color-icon-default: rgba(0, 0, 0, 0.8956000208854675); /* Icon primary for default icon */
+    --uv-styles-color-review-stars: rgba(0, 95, 184, 1); /* Accent default for stars */
+    --uv-styles-color-review-stars-empty: rgba(0, 0, 0, 0.05779999867081642); /* Outline color in light theme for empty stars */
+    --uv-styles-color-letterbox: rgba(249, 249, 249, 1); /* Closest match for letterbox background */
+}
+/*link color*/
+a {
+    color: rgba(0, 62, 146, 1);
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,.1);
+}
+/*fluent text color*/
+.yDYNvb.lyLwlc {
+    color: rgba(0, 0, 0, 0.61);
+}
+.yXK7lf em {
+    color: rgba(0, 0, 0, 0.61);
+}
+}
